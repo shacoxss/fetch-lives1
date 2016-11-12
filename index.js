@@ -4,7 +4,7 @@ const await_for = require('./await_for')
 const lives = require('./lives')
 const f = require('./collect')
 const mysql = require('mysql2/promise')
-//
+
 const DB = {
     host: 'localhost',
     user: 'root',
