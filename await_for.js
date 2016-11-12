@@ -1,5 +1,6 @@
 "use strict"
 
+//Ö´ÐÐ
 module.exports = iterator => {
 
     let solve = []
